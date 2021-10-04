@@ -1,0 +1,18 @@
+body{
+	background-color: darkred;
+}
+h1{
+	font-size: 30px;
+	color: blueviolet;
+}
+h2{
+	font-size: 25px;
+	color: darksalmon;
+}
+
+.big{
+	font-size: 50px;
+}
+h1 span{
+	color: green;
+}
