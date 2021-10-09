@@ -2,6 +2,7 @@ body{
 	margin: 0;
 	font-family: 'Helverica', 'Arial', sans-serif
 	line-height: 30px;
+	background-image: linear-gradient(#804DA1, #AD75D1);
 }
 /* header */
 
@@ -21,7 +22,7 @@ header h1{
 h2{
 	font-size: 20px;
 	font-family: 'Helverica', 'Arial', sans-serif;
-	margin: 0px 0px;
+	margin: 0px 0px 10px;
 
 }
 header img{
@@ -40,7 +41,6 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
-	background-image: linear-gradient(#804DA1, #AD75D1);
 
 }
 
